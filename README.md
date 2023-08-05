@@ -1,5 +1,6 @@
 # Curso de Git
 
-![./CursoGit.png](Curso Git)
+![https://github.com/valdiviomct/CursoGit/blob/master/CursoGit.png](Curso Git)
 
-Este repositório serve de exemplo para o curso de Git e GitHub# Curso de Git
+Este repositório e para o curso de git e github
+
